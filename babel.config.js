@@ -20,6 +20,15 @@ module.exports = {
             rootPathPrefix: '_pages',
             rootPathSuffix: 'src/_pages',
           },{
+            rootPathPrefix: '_router',
+            rootPathSuffix: 'src/_router',
+          },{
+            rootPathPrefix: '_helpers',
+            rootPathSuffix: 'src/_helpers',
+          },{
+            rootPathPrefix: '_layouts',
+            rootPathSuffix: 'src/_layouts',
+          },{
             rootPathPrefix: '_store',
             rootPathSuffix: 'src/_store',
           },
